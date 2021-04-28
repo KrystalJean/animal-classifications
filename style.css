@@ -16,7 +16,7 @@ body{
 #navbar {
   background: url(media/trail.jpg);
   background-color: #cccccc; 
-  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.226);
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.25);
   background-position: center;
   background-repeat: no-repeat; 
   background-size: cover;
